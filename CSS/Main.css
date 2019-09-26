@@ -1,0 +1,173 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#979797;
+}
+.container{
+	width: 1024px;
+	height:auto;
+	background-color: #FFFFFF;
+	margin: 0 auto;
+	margin-top:0px;
+}
+.header{
+	width: 1024px;
+	height:58px;
+}
+.header img{
+	float:left;
+}
+.logo{
+	width: 247px;
+	height:58px;
+	float: left;
+	position: relative;
+}
+.menu{
+	width: 677px;
+	height:58px;
+	float: right;
+}
+.menu ul li {
+	float: left;
+	list-style-type: none;
+	margin-right: 16px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 12px;
+	margin-top: 11px;
+}
+.other{
+	width: 100px;
+	height:58px;
+}
+.slider{
+max-width: 1000px;
+ position: relative;
+ margin: auto;
+}
+.middle{
+	width: 900px;
+	height:200px;
+	margin: 0px auto; 
+	animation: bounce 5s forwards;  
+}
+.middle img{
+	margin-left:40px;
+	margin-top: 51px;
+}
+.organic{
+	width: 388px;
+	height:487px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.organic img{
+margin-top: 0px;
+margin-left: 0px;
+}
+
+.rau{
+	width: 181px;
+	height:243px;
+	float: right;
+	margin-right: 20px;
+	margin-top: 40px;
+}
+.rau img{
+margin-top: 0px;
+margin-left: 0px;
+}
+.noidung h2{
+	font-size: 15px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	margin-bottom: 0px;
+}
+.noidung a1{
+	font-size: 10px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	margin-left: 60px;
+	margin-top: 0px;
+	text-decoration: line-through;
+}
+.noidung a2{
+	font-size: 10px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-top: 0px;
+	color: #00B003;
+}
+.noidung a3{
+	font-size: 10px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-top: 0px;
+	color: #00B003;
+	margin-left: 75px;
+}
+.middle2{
+	width: 1024px;
+	height:334px;
+	animation: bounce 5s forwards;  
+}
+.organic1{
+	width: 388px;
+	height:487px;
+	float: right;
+	margin-right:70px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	animation: bounceIn  5s forwards;
+}
+
+.clear
+{
+	clear: both;
+}
+
+.rau2{
+	width: 181px;
+	height:243px;
+	float: left;
+	margin-left:90px;
+	margin-top: 40px;
+	animation: flash 5s forwards; 
+}
+.rau2 img{
+margin-top: 0px;
+margin-left: 0px;
+}
+
+.middle4{
+	width: 1024px;
+	height: 300px;
+	background-color: antiquewhite;
+	margin: 0 auto;
+	animation: bounceIn  5s forwards;
+}
+.middle4 img{
+	float: left;
+	margin-left: 90px;
+	margin-top: 70px;
+}
+.middle4 h1{
+	width: 100%;
+	height:90px;
+	line-height: 90px;
+	margin: 0 auto;
+	text-align: center;
+}
+.table img{
+	margin-top: 20px;
+	margin-left: 60px;
+}
+.form {
+	margin-right: 60px;
+	margin-top: 50px;
+	float: right;
+	animation: flash  5s forwards;
+}
+
